@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+.para{
+    font-size:40px;
+}
+#firstpara{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:40px;
+}
+#secondpara{
+    font-size:40px;
+     font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size:40px;
+     font-family: 'Courier New', Courier, monospace;
+    }
+    .houseOne{
+        background-color: aqua;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: oblique;
+        border:10px dotted black;
+        width: 70px;
+        height: 3cm;
+        margin-left:45% ;
+        
+    }      
